@@ -1,4 +1,3 @@
-
 | Nombres | Ultimos 3 del DNI |
 | :--- | :--- |
 | Pablo | |
@@ -13,15 +12,11 @@
 | Agustin P | |
 | Luciano | 386 |
 | Pablo Santalucia | 605 |
-<<<<<<< HEAD
-| Fernando | |
 | Matias Bressan | 952 |
 | Tomas Hernandez | 291 |
 | Patricio Rosales |480 |
-=======
 | Fernando | 536 |
 | Matias Lama | |
 | Matias Bressan | 952 |
 | Tomas Hernandez | 291 |
-| Patricio Rosales | 480|
->>>>>>> main
+| Patricio Rosales | 480 |
