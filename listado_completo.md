@@ -15,4 +15,4 @@
 | Fernando | |
 | Matias Bressan | 952 |
 | Tomas Hernandez | 291 |
-
+| Patricio Rosales |480 |
